@@ -2,7 +2,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Flutter.
-- 🌱 I’m currently learning Javascript.
+- 🌱 I’m currently learning Go.
 - 📫 How to reach me: [ishworpanta.com.np](http://ishworpanta.com.np)
 - ⚡ Fun fact: I love playing football ⚽️ 
 
